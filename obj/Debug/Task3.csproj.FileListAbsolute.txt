@@ -1,0 +1,11 @@
+D:\Admixer\Task\Task3\Task3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+D:\Admixer\Task\Task3\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\Admixer\Task\Task3\Task3\Task3\bin\Debug\Task3.exe.config
+D:\Admixer\Task\Task3\Task3\Task3\bin\Debug\Task3.exe
+D:\Admixer\Task\Task3\Task3\Task3\bin\Debug\Task3.pdb
+D:\Admixer\Task\Task3\Task3\Task3\bin\Debug\EntityFramework.dll
+D:\Admixer\Task\Task3\Task3\Task3\bin\Debug\EntityFramework.SqlServer.dll
+D:\Admixer\Task\Task3\Task3\Task3\bin\Debug\EntityFramework.xml
+D:\Admixer\Task\Task3\Task3\Task3\bin\Debug\EntityFramework.SqlServer.xml
+D:\Admixer\Task\Task3\Task3\Task3\obj\Debug\Task3.exe
+D:\Admixer\Task\Task3\Task3\Task3\obj\Debug\Task3.pdb
